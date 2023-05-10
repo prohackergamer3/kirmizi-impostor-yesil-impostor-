@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter import ttk	
 def y():
 	t.pack()
-	l = Label(w,text="oyunu bilmiyorsan www.kirmiziyesilimpostorkurallari.wordpress.com'a gir!")
+	l     =     Etiket ( w , text    =    "oyunu bilmiyorsan https://kirmiziyesilimpostorkurallari.wordpress.com/'a gir!" )
 	l.pack()
 w = Tk()
 w.title("HELL ON MY MİND")
