@@ -5,7 +5,7 @@ def y():
 	l     =     Etiket ( w , text    =    "oyunu bilmiyorsan https://kirmiziyesilimpostorkurallari.wordpress.com/'a gir!" )
 	l.pack()
 w = Tk()
-w.title("HELL ON MY MİND")
+w.title("KIRMIZI İMPOSTOR YEŞİL İMPOSTOR")
 w.geometry("500x500")
 m = ttk.Notebook(w)
 m.pack()
